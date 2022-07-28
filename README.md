@@ -1,5 +1,5 @@
 # ow-express-proxy
-OpenWeatherMap Proxy Server Repo for mutsinzi.netlify.app blog post
+OpenWeatherMap Proxy Server Repo for mutsinzi.netlify.app [blog post](https://mutsinzi.netlify.app/hide-api-keys-via-proxy-server/)
 
 ## Getting Started
 
